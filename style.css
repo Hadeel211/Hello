@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+input{
+    background-color: rgb(105, 45, 161);
+}
+#h{
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+     text-align: center;
+     font-size: 50px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    background-color: rgb(105, 45, 161);
+}
+button:hover{
+    background-color: whitesmoke;
+}
